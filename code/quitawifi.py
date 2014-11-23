@@ -1,6 +1,6 @@
 ###############################
-#!/usr/bin/env python         #
-#using Speedtest.net API      #
+#    !/usr/bin/env python     #
+#   using Speedtest.net API   #
 #                             #
 #           Joan Bono         #
 #    joan.bono@soyteleco.net  #
